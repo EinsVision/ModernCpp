@@ -23,11 +23,11 @@ int main()
     
     // 변수 초기화 방식은 3가지가 있다.
     // copy initialization
-    // int ci(123);
+    int ci(123);
     // direct initialization (내가 직접 만든 데이터 타입을 초기화 할 때 많이 쓴다.)
-    // int di(123);
+    int di(123);
     // uniform initialization (내가 직접 만든 데이터 타입을 초기화 할 때 많이 쓴다.)
-    // int ui{ 123 };
+    int ui{ 123 };
 
     /*int did(3.14);             // 이 경우 warning 만 발생시킨다.
     int uiu{ 3.14 };*/           // 이 경우 error 가 발생된다.
