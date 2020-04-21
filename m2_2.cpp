@@ -18,7 +18,7 @@ void Projects::m2_2()
 	cout << numeric_limits<short>::min() << endl;
 	cout << numeric_limits<short>::lowest() << endl;
 
-	short ss = 32767+ 1;  // 1. overflow 발생한다.
+	short ss = 32767+ 1;  // 1. overflow 발생한다.  
 	unsigned int ii = -1; // 2. overflow 발생한다.
 	int div = 22 / 4;	  // 3. 절삭되는 문제가 있다.
 	
