@@ -20,7 +20,7 @@ int main()
     cout << aValue1 << " :: "<<aValue2 << endl;
     cout << sizeof(aValue1) << " :: " << sizeof(aValue2) << endl;
     cout << sizeof(bool) << endl;
-
+    
     // 변수 초기화 방식은 3가지가 있다.
     // copy initialization
     // int ci(123);
