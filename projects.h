@@ -9,4 +9,5 @@ class Projects
 public:
 	void m2_1();
 	void m2_2();
+	void m2_3();
 };

@@ -149,6 +149,7 @@
   <ItemGroup>
     <ClCompile Include="m2_1.cpp" />
     <ClCompile Include="m2_2.cpp" />
+    <ClCompile Include="m2_3.cpp" />
     <ClCompile Include="projects.h" />
     <ClCompile Include="ModernCpp_OpenCV.cpp" />
   </ItemGroup>
