@@ -13,4 +13,5 @@ public:
 	void m2_3();
 	void m2_4();
 	void m2_5();
+	void m2_6();
 };
