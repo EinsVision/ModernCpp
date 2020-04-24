@@ -25,3 +25,16 @@ public:
 	void m2_8();
 	void m2_9();
 };
+class Projects_3
+{
+public:
+	void m3_1();
+	void m3_2();
+	void m3_3();
+	void m3_4();
+	void m3_5();
+	void m3_6();
+	void m3_7();
+	void m3_8();
+	void m3_9();
+};
