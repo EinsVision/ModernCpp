@@ -1,5 +1,12 @@
 #include "projects.h"
 
+//namespace cnst_m2_9
+//{
+//	extern const double pi;
+//	extern const double avogadro;
+//	extern const double moon_gravity;
+//}
+
 namespace work1
 {
 	void doSomething()
@@ -40,3 +47,13 @@ void Projects_4::m4_1()
 }
 
 // case 2 :: apple = 1; (Scope : apple 선언된 위치를 벗어남)
+
+void doSomething4_1()
+{
+	// int a = 1; // 할당이 되고 다시 할당이 된다. 
+	static int a = 1; // memory a가 static이라는 뜻이다. 
+	// static은 초기화가 한번 밖에 되지 않는다.
+	cout << cnst_m2_9::pi << " " << &(cnst_m2_9::pi) << endl;
+	++a;
+	// cout << a << endl;
+}

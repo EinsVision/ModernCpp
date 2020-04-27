@@ -8,9 +8,9 @@ using namespace std;
 
 namespace cnst_m2_9
 {
-	constexpr double pi( 3.141592 );
-	constexpr double avogadro(6.034e23);
-	constexpr double moon_gravity(9.8 / 6.0);
+	const double pi( 3.141592 );
+	const double avogadro(6.034e23);
+	const double moon_gravity(9.8 / 6.0);
 }
 
 class Projects
@@ -53,3 +53,4 @@ public:
 	void m4_9(); //  4.9 자료형에게 가명 붙여주기
 	void m4_10(); // 4.10 구조체 struct
 };
+
