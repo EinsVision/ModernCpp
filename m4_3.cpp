@@ -26,5 +26,5 @@ void Projects_4::m4_3()
         cout << my_var << endl;
     }
     // 세 번째, header file에 using namespace를 쓰는 것은 좋지 않다.
-    // cpp 파일에 using namespace를 넣는 것이 좋다.
+    // cpp 파일에 using namespace를 넣는 것이 좋다. 
 }
