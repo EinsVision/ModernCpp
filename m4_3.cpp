@@ -20,7 +20,7 @@ void Projects_4::m4_3()
         using namespace a;
         cout << my_var << endl;
     }
-    // 두 번째, 이렇게 문제를 해결할 수 있다.
+    // 두 번째,{} 감싸서, 이렇게 문제를 해결할 수 있다.
     {
         using namespace b;
         cout << my_var << endl;
