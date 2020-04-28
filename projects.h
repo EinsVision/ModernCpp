@@ -4,6 +4,7 @@
 #include <limits>
 #include <iomanip>
 #include <bitset>
+#include <typeinfo>
 using namespace std;
 
 namespace cnst_m2_9
