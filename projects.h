@@ -5,6 +5,7 @@
 #include <iomanip>
 #include <bitset>
 #include <typeinfo>
+#include <string>
 using namespace std;
 
 namespace cnst_m2_9
