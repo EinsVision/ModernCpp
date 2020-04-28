@@ -169,6 +169,7 @@
     <ClCompile Include="m3_9.cpp" />
     <ClCompile Include="m4_1.cpp" />
     <ClCompile Include="m4_2.cpp" />
+    <ClCompile Include="m4_3.cpp" />
     <ClCompile Include="projects.h" />
     <ClCompile Include="ModernCpp_OpenCV.cpp" />
   </ItemGroup>
