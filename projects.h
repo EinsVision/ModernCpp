@@ -15,6 +15,7 @@ namespace cnst_m2_9
 	const double moon_gravity(9.8 / 6.0);
 }
 
+
 class Projects
 {
 public:
