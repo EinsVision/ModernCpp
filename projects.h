@@ -6,6 +6,8 @@
 #include <bitset>
 #include <typeinfo>
 #include <string>
+#include <vector>
+
 using namespace std;
 
 namespace cnst_m2_9
@@ -52,7 +54,6 @@ public:
 	void m4_5(); //  4.5 형변환 Type conversion
 	void m4_6(); //  4.6 문자열 std string 소개
 	void m4_7(); //  4.7 열거형 enumerated types
-	void m4_8(); //  4.8 영역 제한 열거형 (열거형 클래스)
 	void m4_8_1(); //  4.8 영역 제한 열거형 (열거형 클래스)
 	void m4_9(); //  4.9 자료형에게 가명 붙여주기
 	void m4_10(); // 4.10 구조체 struct
