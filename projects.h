@@ -58,4 +58,18 @@ public:
 	void m4_9(); //  4.9 자료형에게 가명 붙여주기
 	void m4_10(); // 4.10 구조체 struct
 };
+class Projects_5
+{
+public:
+	void m5_1();	// 5.1 제어 흐름 개요 Control flow
+	void m5_2();	// 5.2 조건문 if
+	void m5_3();	// 5.3 switch-case
+	void m5_4();	// 5.4 goto
+	void m5_5();	// 5.5 반복문 while
+	void m5_6();	// 5.6 반복문 do-while
+	void m5_7();	// 5.7 반복문 for
+	void m5_8();	// 5.8 break, continue
+	void m5_9();	// 5.9 난수 만들기 random numbers
+	void m5_10();	// 5.10 std::cin 더 잘 쓰기
 
+};
