@@ -1,5 +1,5 @@
 #include "projects.h"
-
+// void printArray(int scores[20]) // 이렇게 해도 상관없다. 
 void printArray(int scores[]) // 매개변수 scores[20]는 배열이 아니고 포인터이다.
 {   // array를 함수의 파라메터 (매개변수)로 넣어줄수 있다. 그러나, 
 	// 매개변수가 배열의 모든 원소를 복사해서 가져오는 것이 아니라 
