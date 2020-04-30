@@ -2,8 +2,8 @@
 
 int main()
 {
-    Projects_5 projec;
-    projec.m5_10();
+    Projects_6 projec;
+    projec.m6_1();
 
     return 0;
 }

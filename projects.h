@@ -76,3 +76,29 @@ public:
 	void m5_10();	// 5.10 std::cin 더 잘 쓰기
 
 };
+class Projects_6
+{
+public:
+	void m6_1();	// 6.1 배열 기초 [1 of 2] array
+	void m6_2();	// 6.2 배열 기초 [2 of 2] array
+	void m6_3();	// 6.3 배열과 반복문
+	void m6_4();	// 6.4 배열과 선택 정렬 selection sort
+	void m6_5();	// 6.5 정적 다차원 배열
+	void m6_6();	// 6.6 C언어 스타일의 배열 문자열
+	void m6_7();	// 6.7 포인터의 기본적인 사용법
+	void m6_7_a();	// 6.7a 널 포인터 Null Pointer
+	void m6_8();	// 6.8 포인터와 정적 배열
+	void m6_9();	// 6.9 포인터 연산과 배열 인덱싱
+	void m6_10();	// 6.10 C언어 스타일의 문자열 심볼릭 상수
+	void m6_11();	// 6.11 메모리 동적 할당 new와 delete
+	void m6_12();	// 6.12 동적 할당 배열
+	void m6_13();	// 6.13 포인터와 const
+	void m6_14();	// 6.14 참조 변수 reference variable
+	void m6_15();	// 6.15 참조와 const
+	void m6_16();	// 6.16 포인터와 참조의 멤버 선택
+	void m6_17();	// 6.17 C++11 For-each 반복문
+	void m6_18();	// 6.18 보이드 포인터
+	void m6_19();	// 6.19 다중 포인터와 동적 다차원 배열
+	void m6_20();	// 6.20 std::array 소개
+	void m6_21();	// 6.21 std::vector 소개
+};
