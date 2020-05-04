@@ -141,5 +141,8 @@
     <ClCompile Include="m6_7.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="m6_7_a.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
