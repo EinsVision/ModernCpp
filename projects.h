@@ -10,6 +10,8 @@
 #include <cstdlib> // random number generate
 #include <ctime>
 #include <random>
+#include <array>
+#include <algorithm>
 
 using namespace std;
 
