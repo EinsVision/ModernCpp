@@ -104,3 +104,23 @@ public:
 	void m6_20();	// 6.20 std::array 소개
 	void m6_21();	// 6.21 std::vector 소개
 };
+class Projects_7
+{
+public:
+	void m7_1();	// 7.1 매개변수와 실인자의 구분
+	void m7_2();	// 7.2 값에 의한 전달
+	void m7_3();	// 7.3 참조에 의한 인수 전달
+	void m7_4();	// 7.4 주소에 의한 인수 전달
+	void m7_5();	// 7.5 다양한 반환 값들(값, 참조, 주소, 구조체, 튜플)
+	void m7_6();	// 7.6 인라인 함수
+	void m7_7();	// 7.7 함수 오버로딩
+	void m7_8();	// 7.8 매개변수의 기본값
+	void m7_9();	// 7.9 함수 포인터
+	void m7_10();	// 7.10 스택과 힙 the stack and the heap
+	void m7_11();	// 7.11 std vector를 스택처럼 사용하기
+	void m7_12();	// 7.12 재귀적 함수 호출
+	void m7_13();	// 7.13 방어적 프로그래밍의 개념
+	void m7_14();	// 7.14 단언하기 assert
+	void m7_15();	// 7.15 명령줄 인수 command line arguments
+	void m7_16();	// 7.16 생략부호 Ellipsis
+};
