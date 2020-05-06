@@ -192,6 +192,7 @@
     <ClCompile Include="m6_15.cpp" />
     <ClCompile Include="m6_16.cpp" />
     <ClCompile Include="m6_17.cpp" />
+    <ClCompile Include="m6_19.cpp" />
     <ClCompile Include="m6_2.cpp" />
     <ClCompile Include="m6_3.cpp" />
     <ClCompile Include="m6_4.cpp" />
