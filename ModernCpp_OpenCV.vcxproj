@@ -210,6 +210,7 @@
     <ClCompile Include="m7_12.cpp" />
     <ClCompile Include="m7_13.cpp" />
     <ClCompile Include="m7_14.cpp" />
+    <ClCompile Include="m7_15.cpp" />
     <ClCompile Include="m7_2.cpp" />
     <ClCompile Include="m7_3.cpp" />
     <ClCompile Include="m7_4.cpp" />
