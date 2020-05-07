@@ -14,6 +14,7 @@
 #include <algorithm>
 #include <tuple>
 #include <cassert>
+#include <cstdarg> // ellipsis (7.16)
 
 using namespace std;
 
