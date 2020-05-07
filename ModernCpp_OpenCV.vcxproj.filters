@@ -234,5 +234,8 @@
     <ClCompile Include="m7_16.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="m8_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

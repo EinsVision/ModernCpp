@@ -127,3 +127,22 @@ public:
 	void m7_15();	// 7.15 명령줄 인수 command line arguments
 	void m7_16();	// 7.16 생략부호 Ellipsis
 };
+class Projects_8
+{
+public:
+	void m8_1();	// 8.1 객체지향 프로그래밍과 클래스
+	void m8_2();	// 8.2 캡슐화, 접근 지정자, 접근 함수
+	void m8_3();	// 8.3 생성자 Constructors
+	void m8_4();	// 8.4 생성자 멤버 초기화 목록
+	void m8_5();	// 8.5 위임 생성자
+	void m8_6();	// 8.6 소멸자 destructor
+	void m8_7();	// 8.7 this 포인터와 연쇄 호출
+	void m8_8();	// 8.8 클래스 코드와 헤더 파일
+	void m8_9();	// 8.9 클래스와 const
+	void m8_10();	// 8.10 정적 멤버 변수
+	void m8_11();	// 8.11 정적 멤버 함수
+	void m8_12();	// 8.12 친구 함수와 클래스 friend
+	void m8_13();	// 8.13 익명 객체
+	void m8_14();	// 8.14 클래스 안에 포함된 자료형 nested types
+	void m8_15();	// 8.15 실행 시간 측정하기
+};
