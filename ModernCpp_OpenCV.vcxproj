@@ -227,8 +227,13 @@
     <ClCompile Include="m8_5.cpp" />
     <ClCompile Include="m8_6.cpp" />
     <ClCompile Include="m8_7.cpp" />
+    <ClCompile Include="m8_8.cpp" />
+    <ClCompile Include="m8_8_1.cpp" />
     <ClCompile Include="projects.h" />
     <ClCompile Include="ModernCpp_OpenCV.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="m8_8.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
