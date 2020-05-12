@@ -11,7 +11,7 @@
 #include <ctime>
 #include <random>
 #include <array>
-
+#include <initializer_list> // 9.12 
 #include <tuple>
 #include <cassert>
 #include <cstdarg> // ellipsis (7.16)
@@ -26,7 +26,6 @@ namespace cnst_m2_9
 	const double avogadro(6.034e23);
 	const double moon_gravity(9.8 / 6.0);
 }
-
 
 class Projects
 {
