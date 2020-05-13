@@ -151,6 +151,7 @@
   <ItemGroup>
     <ClCompile Include="m10_1.cpp" />
     <ClCompile Include="m10_2.cpp" />
+    <ClCompile Include="m10_3.cpp" />
     <ClCompile Include="m2_1.cpp" />
     <ClCompile Include="m2_2.cpp" />
     <ClCompile Include="m2_3.cpp" />
@@ -254,9 +255,12 @@
     <ClCompile Include="ModernCpp_OpenCV.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="m10_3_Lecture.h" />
     <ClInclude Include="m10_2_monster.h" />
     <ClInclude Include="m10_2_position2D.h" />
+    <ClInclude Include="m10_3_teacher.h" />
     <ClInclude Include="m8_8.h" />
+    <ClInclude Include="m10_3_Student.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
