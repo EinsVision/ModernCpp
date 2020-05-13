@@ -342,6 +342,9 @@
     <ClCompile Include="m11_1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="m11_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="m8_8.h">
@@ -366,6 +369,15 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="m10_5_Worker.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="m11_2_Student.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="m11_2_Teacher.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="m11_2_Person.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

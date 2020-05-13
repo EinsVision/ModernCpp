@@ -157,6 +157,7 @@
     <ClCompile Include="m10_5_Worker.cpp" />
     <ClCompile Include="m10_6.cpp" />
     <ClCompile Include="m11_1.cpp" />
+    <ClCompile Include="m11_2.cpp" />
     <ClCompile Include="m2_1.cpp" />
     <ClCompile Include="m2_2.cpp" />
     <ClCompile Include="m2_3.cpp" />
@@ -266,6 +267,9 @@
     <ClInclude Include="m10_3_teacher.h" />
     <ClInclude Include="m10_5_Timer.h" />
     <ClInclude Include="m10_5_Worker.h" />
+    <ClInclude Include="m11_2_Person.h" />
+    <ClInclude Include="m11_2_Student.h" />
+    <ClInclude Include="m11_2_Teacher.h" />
     <ClInclude Include="m8_8.h" />
     <ClInclude Include="m10_3_Student.h" />
   </ItemGroup>
