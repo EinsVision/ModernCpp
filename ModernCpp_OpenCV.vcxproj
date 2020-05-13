@@ -156,6 +156,7 @@
     <ClCompile Include="m10_5.cpp" />
     <ClCompile Include="m10_5_Worker.cpp" />
     <ClCompile Include="m10_6.cpp" />
+    <ClCompile Include="m11_1.cpp" />
     <ClCompile Include="m2_1.cpp" />
     <ClCompile Include="m2_2.cpp" />
     <ClCompile Include="m2_3.cpp" />
