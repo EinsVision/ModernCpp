@@ -18,6 +18,7 @@
 #include <chrono> // 8.15 시간을 재는 파일이다.
 #include <fstream>
 #include <algorithm> 
+#include <functional> // 12.9
 using namespace std;
 
 namespace cnst_m2_9
