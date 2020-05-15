@@ -3,7 +3,7 @@
 int main()
 {
     Projects_12 projec;
-    projec.m12_6();
+    projec.m12_7();
     
     return 0;
 }
