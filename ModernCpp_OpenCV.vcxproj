@@ -166,6 +166,7 @@
     <ClCompile Include="m11_8.cpp" />
     <ClCompile Include="m11_9.cpp" />
     <ClCompile Include="m12_1.cpp" />
+    <ClCompile Include="m12_2.cpp" />
     <ClCompile Include="m2_1.cpp" />
     <ClCompile Include="m2_2.cpp" />
     <ClCompile Include="m2_3.cpp" />
