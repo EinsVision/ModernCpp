@@ -180,6 +180,8 @@
     <ClCompile Include="m13_2.cpp" />
     <ClCompile Include="m13_2_class.cpp" />
     <ClCompile Include="m13_3.cpp" />
+    <ClCompile Include="m13_4.cpp" />
+    <ClCompile Include="m13_4_class.cpp" />
     <ClCompile Include="m2_1.cpp" />
     <ClCompile Include="m2_2.cpp" />
     <ClCompile Include="m2_3.cpp" />
