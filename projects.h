@@ -28,6 +28,48 @@ namespace cnst_m2_9
 	const double moon_gravity(9.8 / 6.0);
 }
 
+
+template<typename T>
+class MyArray
+{
+private:
+	int m_length;
+	T* m_data;
+
+public:
+	MyArray()
+	{
+		m_length = 0;
+		m_data = nullptr;
+	}
+	MyArray(int length)
+	{
+		m_length = length;
+		m_data = new T[m_length];
+	}
+	~MyArray()
+	{
+		reset();
+	}
+	void reset()
+	{
+		delete[] m_data;
+		m_data = nullptr;
+		m_length = 0;
+	}
+	T& operator[] (int index)
+	{
+		assert(index >= 0 && index < m_length);
+		return m_data[index];
+	}
+	int getLength()
+	{
+		return m_length;
+	}
+
+	void print();
+};
+
 class Projects
 {
 public:
