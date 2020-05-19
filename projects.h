@@ -70,6 +70,52 @@ public:
 	void print();
 };
 
+template<typename T, unsigned int T_SIZE>
+class MyArray133 // 이렇게 template parameter로 넣으면 compile time에
+{				 // 결정된다.
+private:
+	//int m_length;
+	T* m_data;
+
+public:
+	MyArray133()
+	{
+		m_data = new T[T_SIZE];
+	}
+	
+	~MyArray133()
+	{
+		reset();
+	}
+
+	void reset()
+	{
+		delete[] m_data;
+		m_data = nullptr;
+		//m_length = 0;
+	}
+
+	T& operator[] (int index)
+	{
+		assert(index >= 0 && index < T_SIZE);
+		return m_data[index];
+	}
+
+	int getLength()
+	{
+		return T_SIZE;
+	}
+
+	void print()
+	{
+		for (int i = 0; i < T_SIZE; i++)
+		{
+			cout << m_data[i] << " ";
+		}
+		cout << endl;
+	}
+};
+
 class Projects
 {
 public:
