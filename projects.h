@@ -20,6 +20,7 @@
 #include <algorithm> 
 #include <functional> // 12.9
 #include <exception> // 14.4
+#include <memory> // smart pointer
 using namespace std;
 
 namespace cnst_m2_9
