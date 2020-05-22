@@ -19,6 +19,7 @@
 #include <fstream>
 #include <algorithm> 
 #include <functional> // 12.9
+#include <exception> // 14.4
 using namespace std;
 
 namespace cnst_m2_9
