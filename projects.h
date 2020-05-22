@@ -314,3 +314,14 @@ public:
 	void m14_5();	// 14.5 함수 try
 	void m14_6();	// 14.6 예외처리의 위험성과 단점
 };
+class Projects_15
+{
+public:
+	void m15_1();	// 15.1 이동의 의미와 스마트 포인터
+	void m15_2();	// 15.2 오른쪽-값 참조
+	void m15_3();	// 15.3 이동 생성자와 이동 대입
+	void m15_4();	// 15.4 std::move
+	void m15_5();	// 15.5 std::unique_ptr
+	void m15_6();	// 15.6 std::shared_ptr
+	void m15_7();	// 15.7 순환 의존성 문제와 std::weak_ptr
+};
