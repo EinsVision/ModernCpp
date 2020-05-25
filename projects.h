@@ -21,6 +21,11 @@
 #include <functional> // 12.9
 #include <exception> // 14.4
 #include <memory> // smart pointer
+#include <deque> // 16.1
+#include <set>
+#include <map>
+#include <stack>
+#include <queue>
 using namespace std;
 
 namespace cnst_m2_9
@@ -324,4 +329,11 @@ public:
 	void m15_5();	// 15.5 std::unique_ptr
 	void m15_6();	// 15.6 std::shared_ptr
 	void m15_7();	// 15.7 순환 의존성 문제와 std::weak_ptr
+};
+class Projects_16
+{
+public:
+	void m16_1();	// 16.1 표준 템플릿 라이브러리, 컨테이너 소개
+	void m16_2();	// 16.2 STL 반복자 소개
+	void m16_3();	// 16.3 STL 알고리즘 소개
 };
