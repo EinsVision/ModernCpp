@@ -26,8 +26,10 @@
 #include <map> // 17.1
 #include <stack> // 17.1
 #include <queue> // 17.1
-#include <cstddef>
-#include <locale>
+#include <cstddef> // 18.1
+#include <locale>  // 18.1
+#include <sstream>
+
 using namespace std;
 
 namespace cnst_m2_9

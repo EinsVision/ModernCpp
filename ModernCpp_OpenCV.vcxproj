@@ -203,6 +203,7 @@
     <ClCompile Include="m16_2.cpp" />
     <ClCompile Include="m16_3.cpp" />
     <ClCompile Include="m17_1.cpp" />
+    <ClCompile Include="m17_2.cpp" />
     <ClCompile Include="m2_1.cpp" />
     <ClCompile Include="m2_2.cpp" />
     <ClCompile Include="m2_3.cpp" />
