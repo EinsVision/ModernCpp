@@ -22,10 +22,12 @@
 #include <exception> // 14.4
 #include <memory> // smart pointer
 #include <deque> // 16.1
-#include <set>
-#include <map>
-#include <stack>
-#include <queue>
+#include <set> // 17.1
+#include <map> // 17.1
+#include <stack> // 17.1
+#include <queue> // 17.1
+#include <cstddef>
+#include <locale>
 using namespace std;
 
 namespace cnst_m2_9
@@ -336,4 +338,13 @@ public:
 	void m16_1();	// 16.1 표준 템플릿 라이브러리, 컨테이너 소개
 	void m16_2();	// 16.2 STL 반복자 소개
 	void m16_3();	// 16.3 STL 알고리즘 소개
+};
+class Projects_17
+{
+public:
+	void m17_1();	// 17.1 std::string과 std::wstring
+	void m17_2();	// 17.2 std::string의 여러가지 생성자들과 형변환
+	void m17_3();	// 17.3 std::string의 길이와 용량
+	void m17_4();	// 17.4 문자 접근하기와 배열로의 변환
+	void m17_5();	// 17.5 string 대입, 교환, 덧붙이기, 삽입
 };
