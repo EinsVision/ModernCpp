@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cmath>
 #include <limits>
-#include <iomanip>
+#include <iomanip> // input/ output manipulators
 #include <bitset>
 #include <typeinfo>
 #include <string>
@@ -349,4 +349,15 @@ public:
 	void m17_3();	// 17.3 std::string의 길이와 용량
 	void m17_4();	// 17.4 문자 접근하기와 배열로의 변환
 	void m17_5();	// 17.5 string 대입, 교환, 덧붙이기, 삽입
+};
+class Projects_18
+{
+public:
+	void m18_1();	// 18.1 istream으로 입력받기
+	void m18_2();	// 18.2 ostream으로 출력하기
+	void m18_3();	// 18.3 문자열 스트림
+	void m18_4();	// 18.4 흐름 상태와 입력 유효성 검증
+	void m18_5();	// 18.5 정규 표현식 소개
+	void m18_6();	// 18.6 기본적인 파일 입출력
+	void m18_7();	// 18.7 파일의 임의 위치 접근하기
 };
