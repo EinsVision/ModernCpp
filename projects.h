@@ -29,6 +29,9 @@
 #include <cstddef> // 18.1
 #include <locale>  // 18.1
 #include <sstream> // string stream
+#include <cctype>
+#include <bitset>
+
 
 using namespace std;
 
