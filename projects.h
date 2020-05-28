@@ -28,7 +28,7 @@
 #include <queue> // 17.1
 #include <cstddef> // 18.1
 #include <locale>  // 18.1
-#include <sstream>
+#include <sstream> // string stream
 
 using namespace std;
 
