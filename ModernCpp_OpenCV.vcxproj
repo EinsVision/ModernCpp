@@ -214,6 +214,7 @@
     <ClCompile Include="m18_5.cpp" />
     <ClCompile Include="m18_6.cpp" />
     <ClCompile Include="m18_7.cpp" />
+    <ClCompile Include="m19_1.cpp" />
     <ClCompile Include="m2_1.cpp" />
     <ClCompile Include="m2_2.cpp" />
     <ClCompile Include="m2_3.cpp" />

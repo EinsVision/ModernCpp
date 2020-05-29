@@ -365,3 +365,15 @@ public:
 	void m18_6();	// 18.6 기본적인 파일 입출력
 	void m18_7();	// 18.7 파일의 임의 위치 접근하기
 };
+class Projects_19
+{
+public:
+	void m19_1();	// 19.1 람다 함수와 std::function std::bind, for_each
+	void m19_2();	// 19.2 C++17 함수에서 여러 개의 리턴값 반환하기
+	void m19_3();	// 19.3 std thread와 멀티쓰데링 기초
+	void m19_4();	// 19.4 레이스 컨디션, std::atomic, std::scoped_lock
+	void m19_5();	// 19.5 작업 기반 비동기 프로그래밍
+	void m19_6();	// 19.6 멀티쓰레딩 예제 (백터 내적)
+	void m19_7();	// 19.7 완벽한 전달과 std::forward
+	void m19_8();	// 19.8 자료형 추론 auto와 decltype
+};
