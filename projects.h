@@ -36,6 +36,7 @@
 #include <tuple> // 19.2 여러개의 return 값 받기
 #include <thread> //19.3
 #include <mutex>  //19.3 multithreading
+#include <atomic> // 19.4 
 
 using namespace std;
 
