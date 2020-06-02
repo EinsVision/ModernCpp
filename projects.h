@@ -38,6 +38,9 @@
 #include <mutex>  //19.3 multithreading
 #include <atomic> // 19.4 
 #include <future> // 19.5
+#include <utility> //19.6
+#include <numeric> //19.6
+#include <execution> //19.6
 
 using namespace std;
 
