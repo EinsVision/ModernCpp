@@ -41,8 +41,9 @@
 #include <utility> //19.6
 #include <numeric> //19.6
 #include <execution> //19.6
-
+#include <boost/asio.hpp>
 using namespace std;
+using boost::asio::ip::tcp;
 
 namespace cnst_m2_9
 {

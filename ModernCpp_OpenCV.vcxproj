@@ -223,6 +223,7 @@
     <ClCompile Include="m19_7.cpp" />
     <ClCompile Include="m19_8.cpp" />
     <ClCompile Include="m20_1.cpp" />
+    <ClCompile Include="m20_4.cpp" />
     <ClCompile Include="m2_1.cpp" />
     <ClCompile Include="m2_2.cpp" />
     <ClCompile Include="m2_3.cpp" />
