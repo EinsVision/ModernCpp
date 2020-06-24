@@ -385,3 +385,13 @@ public:
 	void m19_7();	// 19.7 완벽한 전달과 std::forward
 	void m19_8();	// 19.8 자료형 추론 auto와 decltype
 };
+class Projects_20
+{
+public:
+	void m20_1();	// 20.1 비쥬얼 스튜디오로 프로파일링 하기
+	void m20_2();	// 20.2 깃, 깃헙 시작하기 Git, Github
+	void m20_3();	// 20.3 비쥬얼 스튜디오에서 깃헙 사용하기
+	void m20_4();	// 20.4 Vcpkg 설치 방법
+	void m20_5();	// 20.5 TCP IP 네트워킹 맛보기- Boost.Asio Socket IOStream
+	void m20_6();	// 20.6 외부 라이버르리 설치, 프로젝트 템플릿
+};
